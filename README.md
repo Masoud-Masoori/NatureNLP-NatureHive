@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌿 NatureNLP → NatureHive (v3–v6)
 
 Masoud Masoori’s experimental journey evolving standard NLP into a nature-inspired architecture.
@@ -28,3 +29,6 @@ Masoud Masoori’s experimental journey evolving standard NLP into a nature-insp
 A complete architectural shift to decentralized attention grids, neuron self-evaluation, and hive-based learning.
 
 > © 2025 Masoud Masoori – [LinkedIn](https://www.linkedin.com/in/masoud-masoori/)
+=======
+# NatureNLP-NatureHive
+>>>>>>> f7bef6f87199a7dd31a31215edc0aaaf987836fe
